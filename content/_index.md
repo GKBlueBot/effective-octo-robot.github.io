@@ -43,9 +43,9 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: papers
+    id: blog
     content:
-      title: Featured Publications
+      title: My Blog
       filters:
         folders:
           - publication

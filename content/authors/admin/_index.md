@@ -54,21 +54,44 @@ education:
       Double majoring in Chemistry and Bioengineering with AI Specialized Major, focusing on computational biophysiscs. Worked on problems in organic chemistry, protein design, oncology and computational chemistry as undergraduate researcher.
 work:
   - position: Undergraduate Researcher
-    company_name: University of Illinois Urbana-Champaign
-    company_url: ''
+    company_name: University of Illinois Urbana-Champaign (UIUC)
+    company_url: 'https://pogorelov.scs.illinois.edu/'
     company_logo: ''
     date_start: 2024-02-01
     date_end: ''
     summary: "Working on analyzing biophysical simulation results. Mentor: Prof. Taras V. Pogorelov"
 
+  - position: AI R&D Intern
+    company_name: Spidercore Inc. 
+    company_url: 'https://www.spidercore.io/'
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: 2024-08-01
+    summary: "Working on using self-supervision methods to improve the performance of graph transformers"
+
   - position: Undergraduate Researcher
-    company_name: X
+    company_name: Korea Advanced Institute of Science and Technology (KAIST)
     company_url: ''
+    company_logo: ''
+    date_start: 2023-11-01
+    date_end: 2024-06-01
+    summary: "Worked on literature review on liquid biopsies. Contributed to early efforts of project and lab setup. Mentor: Prof. Rajib Schubert"
+
+  - position: Undergraduate Researcher
+    company_name: Korea Advanced Institute of Science and Technology (KAIST)
+    company_url: 'https://sites.google.com/view/tpdsb/home'
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-11-01
     summary: "Designed novel proteins using RFDiffusion and Rosetta scripts. Learnt Bash scripting and working on an HPC (RosettaCommons member lab). Mentor: Prof. Byung-Ha Oh"
 
+  - position: Undergraduate Researcher
+    company_name: Korea Advanced Institute of Science and Technology (KAIST)
+    company_url: 'https://ypark-lab.com/'
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-11-01
+    summary: "Made titanium-based organometallic catalysts for sustainability-friendly reactions and elucidated them through NMR. Learnt method development and computational chemistry. Mentor: Prof. Yoonsu Park"
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
