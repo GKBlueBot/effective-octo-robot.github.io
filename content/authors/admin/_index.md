@@ -48,7 +48,7 @@ interests:
 education:
   - area: Chemistry, Bioengineering & AI
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: "2021-09"
+    date_start: 2021-09-01
     date_end: "Present"
     summary: |
       Double majoring in Chemistry and Bioengineering with AI Specialized Major, focusing on computational biophysiscs. Worked on problems in organic chemistry, protein design, oncology and computational chemistry as undergraduate researcher.
@@ -57,7 +57,7 @@ work:
     company_name: University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
-    date_start: 2024-02
+    date_start: 2024-02-01
     date_end: 'Present'
     summary: "Working on analyzing biophysical simulation results. Mentor: Prof. Taras V. Pogorelov"
 
@@ -65,7 +65,7 @@ work:
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2023-06
+    date_start: 2023-06-01
     date_end: 2023-11
     summary: "Designed novel proteins using RFDiffusion and Rosetta scripts. Learnt Bash scripting and working on an HPC (RosettaCommons member lab). Mentor: Prof. Byung-Ha Oh"
 
