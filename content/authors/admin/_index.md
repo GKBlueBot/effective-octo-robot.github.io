@@ -58,7 +58,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-02-01
-    date_end: 'Present'
+    date_end: ''
     summary: "Working on analyzing biophysical simulation results. Mentor: Prof. Taras V. Pogorelov"
 
   - position: Undergraduate Researcher
@@ -66,7 +66,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-06-01
-    date_end: 2023-11
+    date_end: 2023-11-01
     summary: "Designed novel proteins using RFDiffusion and Rosetta scripts. Learnt Bash scripting and working on an HPC (RosettaCommons member lab). Mentor: Prof. Byung-Ha Oh"
 
 # Awards.
