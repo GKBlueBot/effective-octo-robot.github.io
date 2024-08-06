@@ -49,7 +49,7 @@ education:
   - area: Chemistry, Bioengineering & AI
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2021-09-01
-    date_end: "Present"
+    date_end: ""
     summary: |
       Double majoring in Chemistry and Bioengineering with AI Specialized Major, focusing on computational biophysiscs. Worked on problems in organic chemistry, protein design, oncology and computational chemistry as undergraduate researcher.
 work:
