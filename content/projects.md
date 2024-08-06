@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: In addition to my research/hobbies, I have taken multiple project-based courses. Below are some of the projects from my research experiences, hobbies and courses.
       filters:
         folders:
           - project

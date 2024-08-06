@@ -59,7 +59,7 @@ work:
     company_logo: ''
     date_start: 2024-02-01
     date_end: ''
-    summary: "Working on analyzing biophysical simulation results. Mentor: Prof. Taras V. Pogorelov"
+    summary: "Working on analyzing biophysical simulation results.\nMentor: Prof. Taras V. Pogorelov"
 
   - position: AI R&D Intern
     company_name: Spidercore Inc. 
@@ -75,7 +75,7 @@ work:
     company_logo: ''
     date_start: 2023-11-01
     date_end: 2024-06-01
-    summary: "Worked on literature review on liquid biopsies. Contributed to early efforts of project and lab setup. Mentor: Prof. Rajib Schubert"
+    summary: "Worked on literature review on liquid biopsies. Contributed to early efforts of project and lab setup.\nMentor: Prof. Rajib Schubert"
 
   - position: Undergraduate Researcher
     company_name: Korea Advanced Institute of Science and Technology (KAIST)
@@ -83,7 +83,7 @@ work:
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-11-01
-    summary: "Designed novel proteins using RFDiffusion and Rosetta scripts. Learnt Bash scripting and working on an HPC (RosettaCommons member lab). Mentor: Prof. Byung-Ha Oh"
+    summary: "Designed novel proteins using RFDiffusion and Rosetta scripts. Learnt Bash scripting and working on an HPC (RosettaCommons member lab).\nMentor: Prof. Byung-Ha Oh"
 
   - position: Undergraduate Researcher
     company_name: Korea Advanced Institute of Science and Technology (KAIST)
@@ -91,7 +91,7 @@ work:
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2023-11-01
-    summary: "Made titanium-based organometallic catalysts for sustainability-friendly reactions and elucidated them through NMR. Learnt method development and computational chemistry. Mentor: Prof. Yoonsu Park"
+    summary: "Made titanium-based organometallic catalysts for sustainability-friendly reactions and elucidated them through NMR. Learnt method development and computational chemistry.\nMentor: Prof. Yoonsu Park"
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
