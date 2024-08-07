@@ -11,7 +11,7 @@ last_name: Sodjargal
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇲🇳
 
 # Is this the primary user of the site?
 superuser: true
@@ -106,4 +106,6 @@ awards:
 
 ## About Me
 
-I am an undergraduate student at Korea Advanced Institute of Science and Technology (KAIST) set to graduate in Summer 2026. I'm currently working to build computer-aided solutions for biochemical problems including computational investigation of cellular processes and protein design. 
+I am an undergraduate student at Korea Advanced Institute of Science and Technology (KAIST) set to graduate in Summer 2026. I'm currently working to build computer-aided solutions for biochemical problems including computational investigation of cellular processes and protein design. My current dry-lab research interests include biophysical simulations, rational protein design, lab automation and scientific software development. On the wet-lab side, I am interested in structural biology and spectroscopy. 
+At the moment, I am in Prof. Taras V. Pogorelov's lab (at UIUC), studying the behaviour of biomolecules in cellular bilayers. Before that, I did 4 months of internship in Therapeutic Protein Design and Structural Bio Lab (of Prof. Byung-Ha Oh), studying physics- and ML-based methods of protein design, as well as 1 year of undergraduate research in Sustainable Catalysis Lab (of Prof. Yoonsu Park), where I researched on organic reaction development using catalyst optimization. I also contributed to early-stage efforts of liquid biopsy projects in Reverse Translation Lab (of Prof. Rajib Schubert). 
+From high school, I have experience in robotics (I was the national team captain at FIRST Global Challenge 2020) and debates (MUN), as well as native fluency of English and Russian.
